@@ -62,11 +62,6 @@
 
 
 
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANSHU2692&theme=react-dark&hide_border=true" />
-</p>
 
 
 ---
