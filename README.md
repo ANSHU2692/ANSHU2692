@@ -41,13 +41,18 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSHU2692&theme=dracula&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ANSHU2692&show_icons=true&theme=dracula&hide_border=true" height="150" />
-</div>
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHU2692&layout=compact&theme=dracula&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ANSHU2692&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANSHU2692&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHU2692&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
