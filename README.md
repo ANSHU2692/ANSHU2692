@@ -41,11 +41,13 @@
 
 ### 📈 GitHub Stats
 
-### 📈 GitHub Stats
+
+### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ANSHU2692&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSHU2692&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANSHU2692&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
