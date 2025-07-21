@@ -15,7 +15,7 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,qt,tailwind,ts,nextjs,nestjs,graphql,go,rust,aws" height="55" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,qt" height="55" />
 </div>
 
 ---
@@ -60,15 +60,14 @@
 
 ---
 
-### 🎮 Contribution Graph
+
+
+### 📊 Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANSHU2692/ANSHU2692/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANSHU2692/ANSHU2692/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ANSHU2692/ANSHU2692/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANSHU2692&theme=react-dark&hide_border=true" />
 </p>
+
 
 ---
 
