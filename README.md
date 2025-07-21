@@ -39,14 +39,17 @@
 
 ---
 
-### 📈 GitHub Stats
+
 
 
 ### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSHU2692&theme=react-dark&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSHU2692&theme=react-dark&hide_border=true" alt="activity graph"width="800" height="300" />
 </p>
+
+
+### 📈 GitHub Stats
 
 
 <p align="center">
