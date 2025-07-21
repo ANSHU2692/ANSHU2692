@@ -39,43 +39,6 @@
 
 ---
 
-
-
-
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSHU2692&theme=react-dark&hide_border=true" alt="activity graph"width="800" height="300" />
-</p>
-
-
-### 📈 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANSHU2692&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHU2692&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANSHU2692&theme=dracula&column=6&margin-w=10&margin-h=10" />
-</p>
-
----
-
-
-
-
-
----
-
 ### 📚 Currently Learning
 
 - Data Structures and Algorithms (C++)
